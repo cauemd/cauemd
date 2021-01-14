@@ -1,6 +1,6 @@
 ### Caue Meireles Duarte
 
-A Software Developer that found out the joys of programming and now is pursuing the start of his new career!
+A Software Developer that found out the joys of programming and is now pursuing the start of his new career!
 
 ## About me
 
