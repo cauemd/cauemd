@@ -5,7 +5,7 @@ A Software Developer that found out the joys of programming and is now pursuing 
 ## About me
 
 * I’m currently finishing my Bsc (Honours) in Information Technology.
-* Improving my React skills, I'm working on a web site to use as my GitHub Page
+* I created a portfolio using React! It is still a work in progress, but check it out! https://cauemd.github.io/portfolio/
 
 ## Languages and Skills
 <code><img height="25" src="https://www.oracle.com/a/ocom/img/obic-java-cup.svg"></code>
