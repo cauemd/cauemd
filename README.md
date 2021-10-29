@@ -4,7 +4,8 @@ A Software Developer that found out the joys of programming and is now pursuing 
 
 ## About me
 
-* I’m currently finishing my Bsc (Honours) in Information Technology.
+* Currently working as a graduate Software/DevOps Engineer, working with Private Cloud management (OpenStack).
+* Bachelor (Honours) in Information Technology, finishing with a 1:1.
 * I created a portfolio using React! It is still a work in progress, but check it out! https://cauemd.github.io/portfolio/
 * Current project: Learning more about Terraform to automate deployments using IaC
 
